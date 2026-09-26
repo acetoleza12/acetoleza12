@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Ace Toleza 👋</h1>
 
 <p align="center">
-  Computer Science student • Building useful web and mobile projects<br>
-  📍 Calbayog City, Philippines
+  Computer Science Student • Building useful web and mobile projects<br>
+  
 </p>
 
 <p align="center">
