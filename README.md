@@ -54,3 +54,20 @@ software can solve everyday problems.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2563EB&height=100&section=footer" width="100%" alt="" />
+
+<h2 align="center">Building My Developer Journey</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Every+commit+is+a+step+forward.;Learn.+Build.+Improve.+Repeat.;Small+progress+today.+Better+projects+tomorrow."
+    alt="Animated developer journey"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:2563EB&height=90&text=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20GROW&fontSize=26&fontColor=FFFFFF&animation=twinkling"
+    width="100%"
+    alt="Code, Create, Grow animated banner"
+  />
+</p>
