@@ -72,7 +72,7 @@ software can solve everyday problems.
   />
 </p>
 
-<h2 align="center">👾 My Contribution Activity</h2>
+<h2 align="center">My Contributions — Pac-Man Edition</h2>
 
 <picture>
   <source
@@ -84,7 +84,7 @@ software can solve everyday problems.
     srcset="https://raw.githubusercontent.com/acetoleza12/acetoleza12/pacman-output/pacman-contribution-graph.svg"
   />
   <img
-    alt="Pac-Man eating my GitHub contributions"
+    alt="Pac-Man animation of my GitHub contributions"
     src="https://raw.githubusercontent.com/acetoleza12/acetoleza12/pacman-output/pacman-contribution-graph.svg"
     width="100%"
   />
