@@ -34,14 +34,6 @@ software can solve everyday problems.
   <img src="https://skillicons.dev/icons?i=js,php,java,html,css,mysql,git,github,vscode&perline=9" alt="JavaScript, PHP, Java, HTML, CSS, MySQL, Git, GitHub, and VS Code" />
 </p>
 
-## Featured Projects
-
-| Project | Overview |
-| --- | --- |
-| [StudentForm](https://github.com/acetoleza12/StudentForm) | A student form interface for practicing input and layout design. |
-| [Laravel Practice](https://github.com/acetoleza12/laravel) | PHP and Laravel exercises for developing web application skills. |
-| [Mobile Programming](https://github.com/acetoleza12/mobile_programming) | Coursework and practice projects in mobile development. |
-
 ## Current Focus
 
 - Building useful applications with clear interfaces
