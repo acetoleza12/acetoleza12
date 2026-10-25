@@ -71,3 +71,21 @@ software can solve everyday problems.
     alt="Code, Create, Grow animated banner"
   />
 </p>
+
+<h2 align="center">👾 My Contribution Activity</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/acetoleza12/acetoleza12/pacman-output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/acetoleza12/acetoleza12/pacman-output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man eating my GitHub contributions"
+    src="https://raw.githubusercontent.com/acetoleza12/acetoleza12/pacman-output/pacman-contribution-graph.svg"
+    width="100%"
+  />
+</picture>
